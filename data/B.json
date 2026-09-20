@@ -1,0 +1,24 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc"],
+    "verifier": "DabdioEXE",
+    "verification": "https://www.youtube.com/watch?v=ohKPqGxotao&list=RDohKPqGxotao&start_radio=1",
+    "percentToQualify": 100,
+    "password": "none",
+    "records": [
+        {
+            "user": "DabdioEXE",
+            "link": "https://www.youtube.com/watch?v=ohKPqGxotao&list=RDohKPqGxotao&start_radio=1",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
