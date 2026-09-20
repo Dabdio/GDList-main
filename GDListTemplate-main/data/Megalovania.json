@@ -1,0 +1,24 @@
+{
+    "id": 36745142,
+    "name": "Megalovania",
+    "author": "EternaswipVMAX",
+    "creators": ["EternaswipVMAX"],
+    "verifier": "DabdioEXE",
+    "verification": "https://www.youtube.com/watch?v=0cXdJ3wQut4",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "DabdioEXE",
+            "link": "https://www.youtube.com/watch?v=0cXdJ3wQut4",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

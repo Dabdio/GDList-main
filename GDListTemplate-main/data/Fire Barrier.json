@@ -1,0 +1,24 @@
+{
+    "id": 140359877,
+    "name": "Fire Barrier",
+    "author": "mathman796",
+    "creators": ["mathman796"],
+    "verifier": "DabdioEXE",
+    "verification": "https://www.youtube.com/watch?v=ClxMJq1mEsk",
+    "percentToQualify": 100,
+    "password": "none",
+    "records": [
+        {
+            "user": "DabdioEXE",
+            "link": "https://www.youtube.com/watch?v=ClxMJq1mEsk",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

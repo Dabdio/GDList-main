@@ -1,0 +1,24 @@
+{
+    "id": 58002670,
+    "name": "Sakupen Egg",
+    "author": "Sivlol",
+    "creators": ["Sivlol"],
+    "verifier": "DabdioEXE",
+    "verification": "https://www.youtube.com/watch?v=lAnqIjYDREY",
+    "percentToQualify": 100,
+    "password": "none",
+    "records": [
+        {
+            "user": "DabdioEXE",
+            "link": "https://www.youtube.com/watch?v=lAnqIjYDREY",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
